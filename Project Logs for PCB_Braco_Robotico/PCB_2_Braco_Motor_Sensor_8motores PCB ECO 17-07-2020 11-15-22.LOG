@@ -1,0 +1,131 @@
+Added Component: Designator=MSP1(Msp432_Suport)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWM_Servos_uC2(61201022021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx22021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201022021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500 VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=Sensores_4(61201022021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx22021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201022021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500 VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=Sensores_5(61201022021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx22021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201022021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500 VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=Sensores_6(61201022021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx22021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201022021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500 VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM_Servo_1 Pin=PWM_Servos_uC2-1
+Added Pin To Net: NetName=PWM_Servo_2 Pin=PWM_Servos_uC2-2
+Added Pin To Net: NetName=PWM_Servo_3 Pin=PWM_Servos_uC2-3
+Added Pin To Net: NetName=PWM_Servo_4 Pin=PWM_Servos_uC2-4
+Added Pin To Net: NetName=PWM_Servo_5 Pin=PWM_Servos_uC2-5
+Added Pin To Net: NetName=PWM_Servo_6 Pin=PWM_Servos_uC2-6
+Added Pin To Net: NetName=VCC_uC Pin=PWM_Servos_uC2-7
+Added Pin To Net: NetName=GND_uC Pin=PWM_Servos_uC2-8
+Added Pin To Net: NetName=VCC  (SENSOR) Pin=Sensores_4-1
+Added Pin To Net: NetName=GND (SENSOR) Pin=Sensores_4-2
+Added Pin To Net: NetName=SCL 1 Pin=Sensores_4-3
+Added Pin To Net: NetName=SCL 2 Pin=Sensores_4-4
+Added Pin To Net: NetName=SDA 1 Pin=Sensores_4-5
+Added Pin To Net: NetName=SDA 2 Pin=Sensores_4-6
+Added Pin To Net: NetName=ADD 1 Pin=Sensores_4-7
+Added Pin To Net: NetName=ADD 2 Pin=Sensores_4-8
+Added Pin To Net: NetName=SDA 3 Pin=Sensores_5-1
+Added Pin To Net: NetName=SDA 4 Pin=Sensores_5-2
+Added Pin To Net: NetName=SCL 3 Pin=Sensores_5-3
+Added Pin To Net: NetName=SCL 4 Pin=Sensores_5-4
+Added Pin To Net: NetName=ADD 3 Pin=Sensores_5-5
+Added Pin To Net: NetName=ADD 4 Pin=Sensores_5-6
+Added Pin To Net: NetName=SDA 5 Pin=Sensores_6-1
+Added Pin To Net: NetName=SDA 6 Pin=Sensores_6-2
+Added Pin To Net: NetName=SCL 5 Pin=Sensores_6-3
+Added Pin To Net: NetName=SCL 6 Pin=Sensores_6-4
+Added Pin To Net: NetName=ADD 5 Pin=Sensores_6-5
+Added Pin To Net: NetName=ADD 6 Pin=Sensores_6-6
+Added Member To Class: ClassName=Placa_da_Base Member=Component C1 Cap2
+Added Member To Class: ClassName=Placa_da_Base Member=Component C2 Cap2
+Added Member To Class: ClassName=Placa_da_Base Member=Component C6 Cap2
+Added Member To Class: ClassName=Placa_do_uControlador Member=Component MSP1 MSP432-support
+Added Member To Class: ClassName=Placa_do_uControlador Member=Component PWM_Servos_uC2 61201022021
+Added Member To Class: ClassName=Placa_da_Base Member=Component Q1 2N3904
+Added Member To Class: ClassName=Placa_da_Base Member=Component Q6 2N3904
+Added Member To Class: ClassName=Placa_da_Base Member=Component R1 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R6 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R11 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R12 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R16 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R19 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R20 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R23 Res2
+Added Member To Class: ClassName=Placa_da_Base Member=Component R24 Res2
+Added Member To Class: ClassName=Placa_do_uControlador Member=Component Sensores_4 61201022021
+Added Member To Class: ClassName=Placa_do_uControlador Member=Component Sensores_5 61201022021
+Added Member To Class: ClassName=Placa_do_uControlador Member=Component Sensores_6 61201022021
+Added Member To Class: ClassName=Placa_da_Base Member=Component U2 4N25
+Added Member To Class: ClassName=Placa_da_Base Member=Component U4 4N25
+Added Member To Class: ClassName=Placa_da_Base Member=Component U6 4N25
+Added Room: Name=Placa_da_Base
+Added Room: Name=Placa_do_uControlador
+Added Rule: Name=Schematic Width Constraint

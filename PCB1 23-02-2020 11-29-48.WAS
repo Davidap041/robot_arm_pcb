@@ -1,0 +1,52 @@
+U6 U1
+U5 U2
+U4 U3
+U3 U4
+U2 U5
+U1 U6
+C6 C1
+C5 C2
+C4 C3
+C3 C4
+C2 C5
+C1 C6
+Q6 Q1
+Q5 Q2
+Q4 Q3
+Q3 Q4
+Q2 Q5
+Q1 Q6
+R24 R1
+R23 R2
+R22 R3
+R21 R4
+R20 R5
+R19 R6
+R18 R7
+R17 R8
+R16 R9
+R15 R10
+R14 R11
+R13 R12
+R12 R13
+R11 R14
+R10 R15
+R9 R16
+R8 R17
+R7 R18
+R6 R19
+R5 R20
+R4 R21
+R2 R22
+R3 R23
+R1 R24
+Sensores_4 Sensores_1
+Sensores_3 Sensores_2
+Sensores_2 Sensores_3
+Sensores_1 Sensores_4
+Servo 6 Servo 1
+Servo 5 Servo 2
+Servo 4 Servo 3
+Servo 3 Servo 4
+Servo 2 Servo 5
+Servo 1 Servo 6
